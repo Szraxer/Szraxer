@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello, I'm Simon! 👋
 
-<!--
-**Szraxer/Szraxer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Something about me
+I'm a Computer Science student with a focus on databases and data engineering.  
+I'm interested in Business Intelligence, Data Science, Data Analysis, Data Visualization, and Databases.  
+Aspiring Data Scientist!
 
-Here are some ideas to get you started:
+## Languages and Tools I'm familiar with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- **Python**
+- **C#**
+- **R**
+- **SQL**
+
+### Development Environments & IDEs
+- **Visual Studio**
+- **JetBrains Suite** (PyCharm, IntelliJ IDEA)
+- **Google Colab**
+- **PHPMyAdmin**
+- **MS SQL Server Management Studio**
+
+### Data & BI Tools
+- **Power BI**
+- **Excel**
+- **Pandas**
+
+---
+
+Thanks for visiting my profile! 🤠
+Feel free to check out my linkedin: [to be added]
